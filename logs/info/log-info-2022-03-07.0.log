@@ -1,0 +1,5 @@
+2022-03-07 21:33:20,074 INFO [main] c.n.c.LoggerTests [StartupInfoLogger.java:55] Starting LoggerTests using Java 1.8.0_131 on DESKTOP-NFOMA2H with PID 19412 (started by 90787 in D:\Project\JavaProject\Community-Development\community)
+2022-03-07 21:33:20,075 INFO [main] c.n.c.LoggerTests [SpringApplication.java:640] No active profile set, falling back to 1 default profile: "default"
+2022-03-07 21:33:21,267 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2022-03-07 21:33:21,541 INFO [main] c.n.c.LoggerTests [StartupInfoLogger.java:61] Started LoggerTests in 1.702 seconds (JVM running for 2.266)
+2022-03-07 21:33:21,686 INFO [main] c.n.c.LoggerTests [LoggerTests.java:26] info log

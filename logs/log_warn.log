@@ -1,1 +1,6 @@
-2022-03-07 21:33:21,686 WARN [main] c.n.c.LoggerTests [LoggerTests.java:27] warn log
+2022-03-08 21:29:39,402 WARN [restartedMain] o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext [AbstractApplicationContext.java:591] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'loginController' method 
+com.nowcoder.community.controller.LoginController#getRegisterPage()
+to {GET [/register]}: There is already 'loginController' bean method
+com.nowcoder.community.controller.LoginController#getLoginPage() mapped.
+2022-03-08 21:52:00,803 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:788] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=50s974ms206µs).
+2022-03-08 21:53:12,970 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:788] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m12s167ms843µs800ns).
