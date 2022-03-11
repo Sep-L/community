@@ -1,2 +1,2 @@
-# community
-牛客网 仿牛客社区项目
+# Community
+- 牛客网 仿牛客社区项目
