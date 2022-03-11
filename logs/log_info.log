@@ -712,3 +712,35 @@ Error starting ApplicationContext. To display the conditions report re-run your 
 2022-03-11 19:47:02,225 INFO [http-nio-8080-exec-1] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.
 2022-03-11 20:58:30,084 INFO [SpringApplicationShutdownHook] c.z.h.HikariDataSource [HikariDataSource.java:350] HikariPool-1 - Shutdown initiated...
 2022-03-11 20:58:30,087 INFO [SpringApplicationShutdownHook] c.z.h.HikariDataSource [HikariDataSource.java:352] HikariPool-1 - Shutdown completed.
+2022-03-11 22:00:02,465 INFO [main] c.n.c.m.SensitiveTests [StartupInfoLogger.java:55] Starting SensitiveTests using Java 1.8.0_131 on DESKTOP-NFOMA2H with PID 15316 (started by 90787 in D:\Project\JavaProject\Community-Development\community)
+2022-03-11 22:00:02,466 INFO [main] c.n.c.m.SensitiveTests [SpringApplication.java:640] No active profile set, falling back to 1 default profile: "default"
+2022-03-11 22:00:04,140 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2022-03-11 22:00:04,437 INFO [main] c.n.c.m.SensitiveTests [StartupInfoLogger.java:61] Started SensitiveTests in 2.374 seconds (JVM running for 3.361)
+2022-03-11 22:00:46,141 INFO [main] c.n.c.m.SensitiveTests [StartupInfoLogger.java:55] Starting SensitiveTests using Java 1.8.0_131 on DESKTOP-NFOMA2H with PID 17240 (started by 90787 in D:\Project\JavaProject\Community-Development\community)
+2022-03-11 22:00:46,142 INFO [main] c.n.c.m.SensitiveTests [SpringApplication.java:640] No active profile set, falling back to 1 default profile: "default"
+2022-03-11 22:00:47,610 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2022-03-11 22:00:47,917 INFO [main] c.n.c.m.SensitiveTests [StartupInfoLogger.java:61] Started SensitiveTests in 2.056 seconds (JVM running for 2.726)
+2022-03-11 22:01:44,407 INFO [main] c.n.c.m.SensitiveTests [StartupInfoLogger.java:55] Starting SensitiveTests using Java 1.8.0_131 on DESKTOP-NFOMA2H with PID 16536 (started by 90787 in D:\Project\JavaProject\Community-Development\community)
+2022-03-11 22:01:44,409 INFO [main] c.n.c.m.SensitiveTests [SpringApplication.java:640] No active profile set, falling back to 1 default profile: "default"
+2022-03-11 22:01:45,755 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2022-03-11 22:01:46,035 INFO [main] c.n.c.m.SensitiveTests [StartupInfoLogger.java:61] Started SensitiveTests in 1.876 seconds (JVM running for 2.505)
+2022-03-11 22:05:21,347 INFO [main] c.n.c.m.SensitiveTests [StartupInfoLogger.java:55] Starting SensitiveTests using Java 1.8.0_131 on DESKTOP-NFOMA2H with PID 10768 (started by 90787 in D:\Project\JavaProject\Community-Development\community)
+2022-03-11 22:05:21,349 INFO [main] c.n.c.m.SensitiveTests [SpringApplication.java:640] No active profile set, falling back to 1 default profile: "default"
+2022-03-11 22:05:22,706 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2022-03-11 22:05:22,986 INFO [main] c.n.c.m.SensitiveTests [StartupInfoLogger.java:61] Started SensitiveTests in 1.891 seconds (JVM running for 2.522)
+2022-03-11 22:06:31,594 INFO [main] c.n.c.m.SensitiveTests [StartupInfoLogger.java:55] Starting SensitiveTests using Java 1.8.0_131 on DESKTOP-NFOMA2H with PID 2628 (started by 90787 in D:\Project\JavaProject\Community-Development\community)
+2022-03-11 22:06:31,596 INFO [main] c.n.c.m.SensitiveTests [SpringApplication.java:640] No active profile set, falling back to 1 default profile: "default"
+2022-03-11 22:06:32,950 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2022-03-11 22:06:33,217 INFO [main] c.n.c.m.SensitiveTests [StartupInfoLogger.java:61] Started SensitiveTests in 1.882 seconds (JVM running for 2.501)
+2022-03-11 22:07:37,147 INFO [main] c.n.c.m.SensitiveTests [StartupInfoLogger.java:55] Starting SensitiveTests using Java 1.8.0_131 on DESKTOP-NFOMA2H with PID 17184 (started by 90787 in D:\Project\JavaProject\Community-Development\community)
+2022-03-11 22:07:37,148 INFO [main] c.n.c.m.SensitiveTests [SpringApplication.java:640] No active profile set, falling back to 1 default profile: "default"
+2022-03-11 22:07:38,490 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2022-03-11 22:07:38,766 INFO [main] c.n.c.m.SensitiveTests [StartupInfoLogger.java:61] Started SensitiveTests in 1.873 seconds (JVM running for 2.498)
+2022-03-11 22:07:52,429 INFO [main] c.n.c.m.SensitiveTests [StartupInfoLogger.java:55] Starting SensitiveTests using Java 1.8.0_131 on DESKTOP-NFOMA2H with PID 3936 (started by 90787 in D:\Project\JavaProject\Community-Development\community)
+2022-03-11 22:07:52,430 INFO [main] c.n.c.m.SensitiveTests [SpringApplication.java:640] No active profile set, falling back to 1 default profile: "default"
+2022-03-11 22:07:53,786 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2022-03-11 22:07:54,058 INFO [main] c.n.c.m.SensitiveTests [StartupInfoLogger.java:61] Started SensitiveTests in 1.884 seconds (JVM running for 2.524)
+2022-03-11 22:08:06,517 INFO [main] c.n.c.m.SensitiveTests [StartupInfoLogger.java:55] Starting SensitiveTests using Java 1.8.0_131 on DESKTOP-NFOMA2H with PID 20076 (started by 90787 in D:\Project\JavaProject\Community-Development\community)
+2022-03-11 22:08:06,518 INFO [main] c.n.c.m.SensitiveTests [SpringApplication.java:640] No active profile set, falling back to 1 default profile: "default"
+2022-03-11 22:08:07,872 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2022-03-11 22:08:08,133 INFO [main] c.n.c.m.SensitiveTests [StartupInfoLogger.java:61] Started SensitiveTests in 1.87 seconds (JVM running for 2.499)
