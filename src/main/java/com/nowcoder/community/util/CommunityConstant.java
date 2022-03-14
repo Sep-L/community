@@ -31,4 +31,11 @@ public interface CommunityConstant {
      * 实体类型: 评论
      */
     int ENTITY_TYPE_COMMENT = 2;
+
+    /*
+     * 消息状态
+     */
+    int MESSAGE_UNREAD = 0;
+    int MESSAGE_READ = 1;
+    int MESSAGE_DELETE=2;
 }

@@ -26,12 +26,6 @@
         where status = 0 and entity_type = #{entityType} and entity_id = #{entityId}
     </select>
 
-    <!--<select id="selectDiscussPostById" resultType="DiscussPost">-->
-    <!--    select <include refid="selectFields"></include>-->
-    <!--    from discuss_post-->
-    <!--    where id = #{id}-->
-    <!--</select>-->
-
     <insert id="insertComment" parameterType="Comment">
         insert into comment(<include refid="insertFields"></include>)
         values(#{userId}, #{entityType}, #{entityId}, #{targetId}, #{content}, #{status}, #{createTime})
