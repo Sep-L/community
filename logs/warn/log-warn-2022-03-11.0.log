@@ -1,0 +1,9 @@
+2022-03-11 16:08:37,199 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:788] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=57s424ms654µs).
+2022-03-11 18:28:53,729 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:788] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m20s814ms220µs200ns).
+2022-03-11 18:33:50,531 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:788] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m38s568ms389µs900ns).
+2022-03-11 18:36:39,395 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:788] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m3s359ms975µs300ns).
+2022-03-11 19:13:04,540 WARN [restartedMain] o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext [AbstractApplicationContext.java:591] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'userController' method 
+com.nowcoder.community.controller.UserController#updatePassword(String, String, Model)
+to {POST [/user/upload]}: There is already 'userController' bean method
+com.nowcoder.community.controller.UserController#uploadHeader(MultipartFile, Model) mapped.
+2022-03-11 19:39:14,428 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:788] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m3s653ms966µs400ns).
